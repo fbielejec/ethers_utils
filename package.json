@@ -1,0 +1,14 @@
+{
+  "name": "mnemonic_to_keypair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fbielejec",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.11.0"
+  }
+}
